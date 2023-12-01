@@ -5,7 +5,7 @@ be7fa57946
 
 El arte de la programacion es la habilidad de controlar la complejidad
 
-## Que es JavaScript?
+## QUE ES JAVASCRIP?
 Se agrego al primer navegador(Netscape Navegation) en 1995 y desde entonces se a agregado a mas navegadores.
 
 Agrega interatividad y disenno 
